@@ -1,0 +1,36 @@
+header{
+    background-color: aqua;
+    text-align: center;
+    padding: 15px;
+}
+footer{
+    background-color:cyan;
+    text-align: center;
+    padding: 20px;
+    
+}
+body{
+    text-align: center;
+    background-image: url("first.jpg");
+    background-size: cover;
+    
+
+}
+form ul li label{
+    /*text-align: center;*/
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+form ul li input,select,span{
+    /*float: center;*/
+    margin-bottom: 10px;
+}
+form li{
+    list-style: none;
+    margin-bottom: 2px;
+}
+ul{
+    margin-left:30%;
+    margin-right:30%;
+    border: solid black;
+}
